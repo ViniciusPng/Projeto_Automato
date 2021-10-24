@@ -62,20 +62,20 @@ draw_set_halign(fa_center);
 draw_set_halign(fa_left);
 
 //Draw player's money
-draw_text(8, 8, "Money: " + string(global.money));
+draw_text(8, 8, "Carteira: " + string(global.money));
 
 //Draw price
 draw_set_valign(fa_bottom);
-	draw_text(menuMargin + menuWidth + 4, guiHeight - 4, "Price: " + string(price));
+	draw_text(menuMargin + menuWidth + 4, guiHeight - 4, "Preco: " + string(price));
 	
 	draw_set_halign(fa_right);
-		draw_text(guiWidth - 4, guiHeight - 4, "Hit ENTER to buy");
+		draw_text(guiWidth - 4, guiHeight - 4, "Aperte ENTER para comprar.");
 	draw_set_halign(fa_left);
 draw_set_valign(fa_top);
 
-draw_sprite(sMoeda_1, 1, 110, 600);
-draw_sprite(sMoeda_2, 1, 220, 600);
-draw_sprite(sMoeda_3, 1, 330, 600);
+draw_sprite(sMoeda_1, 0, 110, 450);
+draw_sprite(sMoeda_2, 0, 220, 450);
+draw_sprite(sMoeda_3, 0, 330, 450);
 
 
 

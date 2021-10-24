@@ -7,7 +7,7 @@ switch(menu_index) {
 	case 1:
 		room_goto(Andar1);
 		break;
-	case 3:
+	case 2:
 		game_end();
 		break;
 }

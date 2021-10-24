@@ -1,6 +1,6 @@
 {
   "compression": 0,
-  "volume": 0.19,
+  "volume": 0.2,
   "preload": false,
   "bitRate": 128,
   "sampleRate": 44100,
@@ -10,14 +10,14 @@
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "snd_menu_switch.mp3",
-  "duration": 1.907062,
+  "soundFile": "snd_coin.mp3",
+  "duration": 6.870204,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "resourceVersion": "1.0",
-  "name": "snd_menu_switch",
+  "name": "snd_coin",
   "tags": [],
   "resourceType": "GMSound",
 }

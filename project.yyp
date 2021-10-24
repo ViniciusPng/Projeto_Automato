@@ -35,6 +35,8 @@
     {"id":{"name":"sMoeda_3","path":"sprites/sMoeda_3/sMoeda_3.yy",},"order":19,},
     {"id":{"name":"spr_placa","path":"sprites/spr_placa/spr_placa.yy",},"order":15,},
     {"id":{"name":"sItem_donut","path":"sprites/sItem_donut/sItem_donut.yy",},"order":11,},
+    {"id":{"name":"snd_elevator","path":"sounds/snd_elevator/snd_elevator.yy",},"order":1,},
+    {"id":{"name":"snd_coin","path":"sounds/snd_coin/snd_coin.yy",},"order":2,},
     {"id":{"name":"Sprite2","path":"sprites/Sprite2/Sprite2.yy",},"order":2,},
     {"id":{"name":"o_menu","path":"objects/o_menu/o_menu.yy",},"order":1,},
     {"id":{"name":"obj_elevadorfechado","path":"objects/obj_elevadorfechado/obj_elevadorfechado.yy",},"order":2,},
