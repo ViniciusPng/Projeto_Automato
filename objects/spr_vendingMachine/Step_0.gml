@@ -36,6 +36,8 @@ if(shopOpen) {
 		
 		//Reduce money
 		global.money = global.money - price;
+		
+		audio_play_sound(snd_coin,1,false);
 	}
 	
 }
