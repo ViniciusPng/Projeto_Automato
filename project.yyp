@@ -43,6 +43,7 @@
     {"id":{"name":"sItem_cupcake","path":"sprites/sItem_cupcake/sItem_cupcake.yy",},"order":9,},
     {"id":{"name":"obj_floor5","path":"objects/obj_floor5/obj_floor5.yy",},"order":14,},
     {"id":{"name":"spr_plantas","path":"sprites/spr_plantas/spr_plantas.yy",},"order":16,},
+    {"id":{"name":"Sprite530","path":"sprites/Sprite530/Sprite530.yy",},"order":33,},
     {"id":{"name":"Sprite19","path":"sprites/Sprite19/Sprite19.yy",},"order":22,},
     {"id":{"name":"Sprite22","path":"sprites/Sprite22/Sprite22.yy",},"order":25,},
     {"id":{"name":"obj_floor","path":"objects/obj_floor/obj_floor.yy",},"order":0,},
