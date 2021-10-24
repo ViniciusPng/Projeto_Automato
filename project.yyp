@@ -32,6 +32,7 @@
     {"id":{"name":"Sprite427","path":"sprites/Sprite427/Sprite427.yy",},"order":30,},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
     {"id":{"name":"Sprite21729","path":"sprites/Sprite21729/Sprite21729.yy",},"order":32,},
+    {"id":{"name":"Terreo","path":"rooms/Terreo/Terreo.yy",},"order":4,},
     {"id":{"name":"o_goMenu","path":"objects/o_goMenu/o_goMenu.yy",},"order":3,},
     {"id":{"name":"obj_wall3","path":"objects/obj_wall3/obj_wall3.yy",},"order":17,},
     {"id":{"name":"Sprite24","path":"sprites/Sprite24/Sprite24.yy",},"order":27,},
@@ -93,6 +94,7 @@
     {"roomId":{"name":"RoomMenu","path":"rooms/RoomMenu/RoomMenu.yy",},},
     {"roomId":{"name":"Andar2","path":"rooms/Andar2/Andar2.yy",},},
     {"roomId":{"name":"Andar3","path":"rooms/Andar3/Andar3.yy",},},
+    {"roomId":{"name":"Terreo","path":"rooms/Terreo/Terreo.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
