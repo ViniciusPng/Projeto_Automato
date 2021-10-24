@@ -7,6 +7,7 @@
     {"id":{"name":"Sprite19221","path":"sprites/Sprite19221/Sprite19221.yy",},"order":24,},
     {"id":{"name":"obj_moeda1","path":"objects/obj_moeda1/obj_moeda1.yy",},"order":0,},
     {"id":{"name":"obj_floor2","path":"objects/obj_floor2/obj_floor2.yy",},"order":6,},
+    {"id":{"name":"Room8","path":"rooms/Room8/Room8.yy",},"order":5,},
     {"id":{"name":"Sprite182328","path":"sprites/Sprite182328/Sprite182328.yy",},"order":31,},
     {"id":{"name":"obj_table","path":"objects/obj_table/obj_table.yy",},"order":4,},
     {"id":{"name":"Andar3","path":"rooms/Andar3/Andar3.yy",},"order":3,},
@@ -95,6 +96,7 @@
     {"roomId":{"name":"Andar2","path":"rooms/Andar2/Andar2.yy",},},
     {"roomId":{"name":"Andar3","path":"rooms/Andar3/Andar3.yy",},},
     {"roomId":{"name":"Terreo","path":"rooms/Terreo/Terreo.yy",},},
+    {"roomId":{"name":"Room8","path":"rooms/Room8/Room8.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
